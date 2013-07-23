@@ -32,8 +32,8 @@ public class MainActivity extends Activity {
 	
 	private WebView webView;
 	private Handler mHandler = new Handler();
-	String prevUrl;
-	String backUrl;
+	String prevUrl;		// æ’ Url
+	String backUrl;		// ¿Ã¿¸ Url
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
