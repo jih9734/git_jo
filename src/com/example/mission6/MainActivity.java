@@ -26,8 +26,8 @@ public class MainActivity extends Activity {
 	
 	Button down;
 	Button open;
-	Button back;
-	Button prev;
+	Button back;	// 뒤로가기 버튼
+	Button prev;	// 앞으로가기 버튼
 	EditText text;
 	
 	private WebView webView;
